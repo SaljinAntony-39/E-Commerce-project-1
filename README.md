@@ -5,7 +5,7 @@
 
 
 
- I have uplaoded the main file in patch 2 check it on 
+ I have uploaded the main file in patch 2 check it on 
 
  # Quickstart
 
