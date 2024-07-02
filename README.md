@@ -1,6 +1,6 @@
  # E-Commerce-project-1
 
- #  my name is saljin   clone it work it!...
+ # clone it work it!...
 
  # Quickstart
 
